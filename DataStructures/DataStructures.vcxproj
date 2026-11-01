@@ -22,7 +22,7 @@
   <PropertyGroup Label="Globals">
     <VCProjectVersion>18.0</VCProjectVersion>
     <Keyword>Win32Proj</Keyword>
-    <ProjectGuid>{a803c011-1371-4b13-bd5d-4c55e283b844}</ProjectGuid>
+    <ProjectGuid>{f13ab738-c561-4edb-83d9-6b133519dd83}</ProjectGuid>
     <RootNamespace>DataStructures</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
